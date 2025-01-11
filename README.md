@@ -1,4 +1,4 @@
-    <audio autoplay> <source src="music.mp3" type="audio/mp3"> music </audio>
+
 <div class="fototengah">
     <img src="prof.png" width="150" height="150">
 </div>
@@ -11,8 +11,7 @@
     <p class="red-text">Hello everyone, my name is Lano, I am a student at SMKN 1 Doko majoring in TKJ.</p>
 </div>
 <div class="paragraf">
-    <p class="red-text">My hobby is electronics in the field of sound systems.</p>
-</div>
+    <p class="red-text">My hobby is electronics in the field of sound sys</div>
 <div class="paragraf">
     <p class="red-text">I'm interested in developing web programming and other programming languages I haven't tried yet..</p>
 </div>
